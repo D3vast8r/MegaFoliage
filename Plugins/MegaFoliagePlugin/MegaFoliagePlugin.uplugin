@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0 Development",
+	"FriendlyName": "MegaFoliagePlugin",
+	"Description": "The Mega Foliage Plugin is a Tool, To better assit you spesifically with your \"Megascans\" Foliage for the procedual Foliage system, LODs, HLODs and More.",
+	"Category": "Other",
+	"CreatedBy": "D3vast8r",
+	"CreatedByURL": "https://d3vast8r.artstation.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MegaFoliagePlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
